@@ -17,7 +17,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: https://punokawan.github.io/uptime_server_unj/
+  cname: punokawan.github.io/uptime_server_unj/
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -28,7 +28,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/punokawan/uptime_server_unj.git
+      href: github.com/punokawan/uptime_server_unj.git
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
