@@ -15,8 +15,8 @@ sites:
     __dangerous__body_down: "File not found"
   # - name: Broken Site
   #   url: https://thissitedoesnotexist.com
-  # - name: Secret Site
-  #   url: $SECRET_SITE
+  - name: Secret Site
+    url: http://unj.ac.id
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
