@@ -7,16 +7,18 @@ sites:
   - name: Google
     url: https://www.google.com
     __dangerous__body_down: "File not found"
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-    __dangerous__body_down: "File not found"
-  - name: Hacker News
-    url: https://news.ycombinator.com
-    __dangerous__body_down: "File not found"
+  # - name: Wikipedia
+  #   url: https://en.wikipedia.org
+  #   __dangerous__body_down: "File not found"
+  # - name: Hacker News
+  #   url: https://news.ycombinator.com
+  #   __dangerous__body_down: "File not found"
   # - name: Broken Site
   #   url: https://thissitedoesnotexist.com
   - name: UNJ
     url: http://unj.ac.id
+  - name: SIAKAD UNJ
+    url: http://siakad.unj.ac.id
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
