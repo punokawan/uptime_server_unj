@@ -1,6 +1,6 @@
 # Change these first
 owner: punokawan # Your GitHub username
-repo: upptime_server_unj # Your GitHub repository name
+repo: uptime_server_unj # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -22,14 +22,14 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: punokawan.github.io/uptime_server_unj/
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime_server_unj
+  baseUrl: /uptime_server_unj
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /upptime_server_unj
+      href: /uptime_server_unj
     - title: GitHub
       href: github.com/punokawan/uptime_server_unj.git
 
