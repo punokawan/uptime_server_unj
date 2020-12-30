@@ -21,6 +21,10 @@ sites:
     url: http://siakad.unj.ac.id
   - name: SIUKAT UNJ
     url: http://siukat.unj.ac.id
+  - name: Aplikasi Peserta PSB dev
+    url: https://aplikasi-ujian-peserta-dev.vercel.app/login
+  - name: Aplikasi Admin PSB dev
+    url: https://aplikasi-ujian-service-dev.vercel.app/admin
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
