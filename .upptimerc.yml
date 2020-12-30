@@ -6,27 +6,30 @@ repo: upptime_server_unj # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
+    __dangerous__body_down: "File not found"
   - name: Wikipedia
     url: https://en.wikipedia.org
+    __dangerous__body_down: "File not found"
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+    __dangerous__body_down: "File not found"
+  # - name: Broken Site
+  #   url: https://thissitedoesnotexist.com
+  # - name: Secret Site
+  #   url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: punokawan.github.io/uptime_server_unj/
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /upptime_server_unj
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /upptime_server_unj
     - title: GitHub
       href: github.com/punokawan/uptime_server_unj.git
 
