@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9250,
-    "timeDay": 9250,
-    "timeWeek": 9250,
-    "timeMonth": 9250,
-    "timeYear": 9250,
+    "time": 9248,
+    "timeDay": 9248,
+    "timeWeek": 9248,
+    "timeMonth": 9248,
+    "timeYear": 9248,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1173,
-    "timeWeek": 1173,
-    "timeMonth": 1173,
-    "timeYear": 1173,
+    "time": 1177,
+    "timeDay": 1177,
+    "timeWeek": 1177,
+    "timeMonth": 1177,
+    "timeYear": 1177,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "SIUKAT UNJ",
+    "url": "http://siukat.unj.ac.id",
+    "icon": "https://favicons.githubusercontent.com/siukat.unj.ac.id",
+    "slug": "siukat-unj",
+    "status": "down",
+    "uptime": "79.54%",
+    "uptimeDay": "79.54%",
+    "uptimeWeek": "79.54%",
+    "uptimeMonth": "79.54%",
+    "uptimeYear": "79.54%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-30": 0
+    }
   }
 ]
