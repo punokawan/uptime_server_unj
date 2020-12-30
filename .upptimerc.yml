@@ -19,6 +19,8 @@ sites:
     url: http://unj.ac.id
   - name: SIAKAD UNJ
     url: http://siakad.unj.ac.id
+  - name: SIUKAT UNJ
+    url: http://siukat.unj.ac.id
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
