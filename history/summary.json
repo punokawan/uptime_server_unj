@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-16": 102,
+      "2021-01-16": 1069,
       "2021-01-15": 1440,
       "2021-01-14": 1440,
       "2021-01-13": 1440,
@@ -113,17 +113,19 @@
     "url": "https://aplikasi-ujian-service-dev.vercel.app/admin",
     "icon": "https://favicons.githubusercontent.com/aplikasi-ujian-service-dev.vercel.app",
     "slug": "aplikasi-admin-psb-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1584,
-    "timeDay": 1734,
-    "timeWeek": 1539,
+    "timeDay": 1653,
+    "timeWeek": 1543,
     "timeMonth": 1584,
     "timeYear": 1584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-16": 0
+    }
   }
 ]
