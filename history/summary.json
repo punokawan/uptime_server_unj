@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 46,
-    "timeWeek": 60,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "time": 82,
+    "timeDay": 54,
+    "timeWeek": 55,
+    "timeMonth": 82,
+    "timeYear": 82,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8831,
-    "timeDay": 8611,
-    "timeWeek": 8675,
-    "timeMonth": 8831,
-    "timeYear": 8831,
+    "time": 8807,
+    "timeDay": 8293,
+    "timeWeek": 8571,
+    "timeMonth": 8807,
+    "timeYear": 8807,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1389,
-    "timeDay": 1507,
-    "timeWeek": 1502,
-    "timeMonth": 1389,
-    "timeYear": 1389,
+    "time": 1394,
+    "timeDay": 1488,
+    "timeWeek": 1493,
+    "timeMonth": 1394,
+    "timeYear": 1394,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-16": 1069,
+      "2021-01-17": 103,
+      "2021-01-16": 1440,
       "2021-01-15": 1440,
       "2021-01-14": 1440,
       "2021-01-13": 1440,
@@ -102,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1129,
-    "timeDay": 1291,
-    "timeWeek": 1088,
+    "timeDay": 1141,
+    "timeWeek": 1056,
     "timeMonth": 1129,
     "timeYear": 1129,
     "dailyMinutesDown": {}
@@ -114,18 +115,19 @@
     "icon": "https://favicons.githubusercontent.com/aplikasi-ujian-service-dev.vercel.app",
     "slug": "aplikasi-admin-psb-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1584,
-    "timeDay": 1653,
-    "timeWeek": 1543,
-    "timeMonth": 1584,
-    "timeYear": 1584,
+    "uptime": "98.09%",
+    "uptimeDay": "67.06%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.09%",
+    "time": 1583,
+    "timeDay": 1575,
+    "timeWeek": 1521,
+    "timeMonth": 1583,
+    "timeYear": 1583,
     "dailyMinutesDown": {
-      "2021-01-16": 0
+      "2021-01-17": 103,
+      "2021-01-16": 371
     }
   }
 ]
