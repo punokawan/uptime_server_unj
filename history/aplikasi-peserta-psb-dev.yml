@@ -1,7 +1,7 @@
 url: https://aplikasi-ujian-peserta-dev.vercel.app/login
-status: up
-code: 200
-responseTime: 1218
-lastUpdated: 2021-01-31T23:16:24.540Z
+status: down
+code: 404
+responseTime: 203
+lastUpdated: 2021-02-01T14:25:10.837Z
 startTime: Wed Dec 30 2020 19:28:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
