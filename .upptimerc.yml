@@ -15,7 +15,7 @@ sites:
     url: http://siukat.unj.ac.id
   - name: Aplikasi Peserta PSB
     url: http://103.8.12.221/login
-  - name: Aplikasi Admin PSB dev
+  - name: Aplikasi Admin PSB service
     url: http://103.8.12.221:3000/
   - name: Aplikasi SIMAMA POLTEKES FE
     url: http://103.74.143.73/
