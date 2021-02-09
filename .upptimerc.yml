@@ -4,31 +4,27 @@ repo: uptime_website_unj # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-    __dangerous__body_down: "File not found"
-  # - name: Wikipedia
-  #   url: https://en.wikipedia.org
+  # - name: Google
+  #   url: https://www.google.com
   #   __dangerous__body_down: "File not found"
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  #   __dangerous__body_down: "File not found"
-  # - name: Broken Site
-  #   url: https://thissitedoesnotexist.com
   - name: UNJ
     url: http://unj.ac.id
   - name: SIAKAD UNJ
     url: http://siakad.unj.ac.id
   - name: SIUKAT UNJ
     url: http://siukat.unj.ac.id
-  - name: Aplikasi Peserta PSB dev
-    url: https://aplikasi-ujian-peserta-dev.vercel.app/login
+  - name: Aplikasi Peserta PSB
+    url: http://103.8.12.221/login
   - name: Aplikasi Admin PSB dev
-    url: https://aplikasi-ujian-service-dev.vercel.app/admin
+    url: http://103.8.12.221:3000/
+  - name: Aplikasi SIMAMA POLTEKES FE
+    url: http://103.74.143.73/
+  - name: Aplikasi SIMAMA POLTEKES BE
+    url: http://103.74.143.73:3000/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: punokawan.github.io/uptime_website_unj
+  # cname: punokawan.github.io/uptime_website_unj
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime_website_unj
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
