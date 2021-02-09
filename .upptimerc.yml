@@ -13,14 +13,26 @@ sites:
     url: http://siakad.unj.ac.id
   - name: SIUKAT UNJ
     url: http://siukat.unj.ac.id
-  - name: Aplikasi Peserta PSB
+  - name: Aplikasi Peserta Ujian PSB
     url: http://103.8.12.221/login
-  - name: Aplikasi Admin PSB service
+  - name: Aplikasi Admin Ujian PSB service
     url: http://103.8.12.221:3000/
   - name: Aplikasi SIMAMA POLTEKES FE
     url: http://103.74.143.73/
   - name: Aplikasi SIMAMA POLTEKES BE
     url: http://103.74.143.73:3000/
+  - name: Aplikasi Pendaftaran Pascasarjana
+    url: http://pendaftaran.unj.ac.id/pascasarjana/
+  # - name: Aplikasi Admin Pascasarjana
+  #   url: http://192.168.4.53:49160/
+  - name: Aplikasi Pendaftaran Mandiri Jalur Prestasi
+    url: http://pendaftaran.unj.ac.id/prestasi/
+  # - name: Aplikasi Admin Japres
+  #   url: http://192.168.4.53:49160/
+  - name: Aplikasi Pendaftaran Mandiri Ujian Tulis
+    url: http://pendaftaran.unj.ac.id/
+  # - name: Aplikasi Admin Mandiri
+  #   url: http://192.168.4.53:49160/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
