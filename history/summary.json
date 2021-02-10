@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.46%",
-    "time": 8458,
-    "timeDay": 8218,
-    "timeWeek": 8074,
-    "timeMonth": 8267,
-    "timeYear": 8458,
+    "time": 8453,
+    "timeDay": 8240,
+    "timeWeek": 8065,
+    "timeMonth": 8243,
+    "timeYear": 8453,
     "dailyMinutesDown": {
       "2021-01-22": 320
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1433,
-    "timeDay": 1487,
-    "timeWeek": 1443,
-    "timeMonth": 1474,
-    "timeYear": 1433,
+    "time": 1429,
+    "timeDay": 1394,
+    "timeWeek": 1412,
+    "timeMonth": 1465,
+    "timeYear": 1429,
     "dailyMinutesDown": {}
   },
   {
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-09": 797,
+      "2021-02-10": 53,
+      "2021-02-09": 1440,
       "2021-02-08": 1440,
       "2021-02-07": 1440,
       "2021-02-06": 1440,
@@ -109,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 766,
-    "timeWeek": 766,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "time": 687,
+    "timeDay": 687,
+    "timeWeek": 687,
+    "timeMonth": 687,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 492,
-    "timeWeek": 492,
-    "timeMonth": 492,
-    "timeYear": 492,
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {}
   },
   {
@@ -139,26 +140,6 @@
     "url": "http://103.74.143.73/",
     "icon": "https://favicons.githubusercontent.com/103.74.143.73",
     "slug": "aplikasi-simama-poltekes-fe",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-02-09": 321
-    }
-  },
-  {
-    "name": "Aplikasi SIMAMA POLTEKES BE",
-    "url": "http://103.74.143.73:3000/",
-    "icon": "https://favicons.githubusercontent.com/103.74.143.73",
-    "slug": "aplikasi-simama-poltekes-be",
     "status": "down",
     "uptime": "0.01%",
     "uptimeDay": "0.01%",
@@ -171,7 +152,29 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-09": 321
+      "2021-02-10": 53,
+      "2021-02-09": 965
+    }
+  },
+  {
+    "name": "Aplikasi SIMAMA POLTEKES BE",
+    "url": "http://103.74.143.73:3000/",
+    "icon": "https://favicons.githubusercontent.com/103.74.143.73",
+    "slug": "aplikasi-simama-poltekes-be",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-02-10": 53,
+      "2021-02-09": 964
     }
   },
   {
@@ -185,11 +188,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 938,
-    "timeDay": 938,
-    "timeWeek": 938,
-    "timeMonth": 938,
-    "timeYear": 938,
+    "time": 846,
+    "timeDay": 846,
+    "timeWeek": 846,
+    "timeMonth": 846,
+    "timeYear": 846,
     "dailyMinutesDown": {}
   },
   {
@@ -203,11 +206,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 896,
-    "timeDay": 896,
-    "timeWeek": 896,
-    "timeMonth": 896,
-    "timeYear": 896,
+    "time": 608,
+    "timeDay": 608,
+    "timeWeek": 608,
+    "timeMonth": 608,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   },
   {
@@ -221,11 +224,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 245,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "time": 224,
+    "timeDay": 224,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   }
 ]
