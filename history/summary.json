@@ -24,10 +24,10 @@
     "url": "http://siakad.unj.ac.id",
     "icon": "https://favicons.githubusercontent.com/siakad.unj.ac.id",
     "slug": "siakad-unj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1427,
@@ -35,7 +35,9 @@
     "timeWeek": 1415,
     "timeMonth": 1459,
     "timeYear": 1427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-13": 1
+    }
   },
   {
     "name": "SIUKAT UNJ",
@@ -54,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-13": 54,
+      "2021-02-13": 151,
       "2021-02-12": 1440,
       "2021-02-11": 1440,
       "2021-02-10": 1440,
@@ -107,27 +109,29 @@
     "url": "http://103.8.12.221/login",
     "icon": "https://favicons.githubusercontent.com/103.8.12.221",
     "slug": "aplikasi-peserta-ujian-psb",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 739,
     "timeDay": 755,
     "timeWeek": 739,
     "timeMonth": 739,
     "timeYear": 739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-13": 1
+    }
   },
   {
     "name": "Aplikasi Admin Ujian PSB service",
     "url": "http://103.8.12.221:3000/",
     "icon": "https://favicons.githubusercontent.com/103.8.12.221",
     "slug": "aplikasi-admin-ujian-psb-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -136,7 +140,9 @@
     "timeWeek": 488,
     "timeMonth": 488,
     "timeYear": 488,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-13": 0
+    }
   },
   {
     "name": "Aplikasi SIMAMA POLTEKES FE",
@@ -155,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-13": 54,
+      "2021-02-13": 151,
       "2021-02-12": 1440,
       "2021-02-11": 1440,
       "2021-02-10": 1440,
@@ -168,18 +174,18 @@
     "icon": "https://favicons.githubusercontent.com/103.74.143.73",
     "slug": "aplikasi-simama-poltekes-be",
     "status": "down",
-    "uptime": "22.96%",
-    "uptimeDay": "26.14%",
-    "uptimeWeek": "22.96%",
-    "uptimeMonth": "22.96%",
-    "uptimeYear": "22.96%",
+    "uptime": "22.55%",
+    "uptimeDay": "19.37%",
+    "uptimeWeek": "22.55%",
+    "uptimeMonth": "22.55%",
+    "uptimeYear": "22.55%",
     "time": 446,
     "timeDay": 0,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2021-02-13": 54,
+      "2021-02-13": 151,
       "2021-02-12": 1010,
       "2021-02-11": 645,
       "2021-02-10": 1440,
