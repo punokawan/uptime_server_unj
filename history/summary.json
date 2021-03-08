@@ -4,11 +4,11 @@
     "url": "http://unj.ac.id",
     "icon": "https://favicons.githubusercontent.com/unj.ac.id",
     "slug": "unj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.67%",
     "time": 8497,
     "timeDay": 9699,
@@ -16,6 +16,7 @@
     "timeMonth": 8524,
     "timeYear": 8497,
     "dailyMinutesDown": {
+      "2021-03-08": 4,
       "2021-01-22": 320
     }
   },
@@ -24,11 +25,11 @@
     "url": "http://siakad.unj.ac.id",
     "icon": "https://favicons.githubusercontent.com/siakad.unj.ac.id",
     "slug": "siakad-unj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.67%",
     "time": 3084,
     "timeDay": 1413,
@@ -36,6 +37,7 @@
     "timeMonth": 4703,
     "timeYear": 3084,
     "dailyMinutesDown": {
+      "2021-03-08": 3,
       "2021-02-25": 56,
       "2021-02-24": 216,
       "2021-02-13": 48
@@ -58,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-08": 59,
+      "2021-03-08": 1114,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
       "2021-03-05": 1440,
@@ -134,18 +136,19 @@
     "url": "http://103.8.12.221/login",
     "icon": "https://favicons.githubusercontent.com/103.8.12.221",
     "slug": "aplikasi-peserta-ujian-psb",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 765,
     "timeDay": 744,
     "timeWeek": 742,
     "timeMonth": 765,
     "timeYear": 765,
     "dailyMinutesDown": {
+      "2021-03-08": 2,
       "2021-02-25": 58,
       "2021-02-13": 48
     }
@@ -155,10 +158,10 @@
     "url": "http://103.8.12.221:3000/",
     "icon": "https://favicons.githubusercontent.com/103.8.12.221",
     "slug": "aplikasi-admin-ujian-psb-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 494,
@@ -167,6 +170,7 @@
     "timeMonth": 494,
     "timeYear": 494,
     "dailyMinutesDown": {
+      "2021-03-08": 2,
       "2021-02-25": 58,
       "2021-02-13": 46
     }
@@ -188,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-08": 59,
+      "2021-03-08": 1114,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
       "2021-03-05": 1440,
@@ -224,18 +228,18 @@
     "icon": "https://favicons.githubusercontent.com/103.74.143.73",
     "slug": "aplikasi-simama-poltekes-be",
     "status": "down",
-    "uptime": "3.19%",
+    "uptime": "3.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.19%",
-    "uptimeYear": "3.19%",
+    "uptimeMonth": "3.10%",
+    "uptimeYear": "3.10%",
     "time": 446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2021-03-08": 59,
+      "2021-03-08": 1114,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
       "2021-03-05": 1440,
@@ -270,10 +274,10 @@
     "url": "http://pendaftaran.unj.ac.id/pascasarjana/",
     "icon": "https://favicons.githubusercontent.com/pendaftaran.unj.ac.id",
     "slug": "aplikasi-pendaftaran-pascasarjana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 932,
@@ -281,17 +285,19 @@
     "timeWeek": 945,
     "timeMonth": 932,
     "timeYear": 932,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 1
+    }
   },
   {
     "name": "Aplikasi Pendaftaran Mandiri Jalur Prestasi",
     "url": "http://pendaftaran.unj.ac.id/prestasi/",
     "icon": "https://favicons.githubusercontent.com/pendaftaran.unj.ac.id",
     "slug": "aplikasi-pendaftaran-mandiri-jalur-prestasi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
@@ -299,16 +305,18 @@
     "timeWeek": 363,
     "timeMonth": 383,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 1
+    }
   },
   {
     "name": "Aplikasi Pendaftaran Mandiri Ujian Tulis",
     "url": "http://pendaftaran.unj.ac.id/",
     "icon": "https://favicons.githubusercontent.com/pendaftaran.unj.ac.id",
     "slug": "aplikasi-pendaftaran-mandiri-ujian-tulis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -317,6 +325,8 @@
     "timeWeek": 245,
     "timeMonth": 246,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 0
+    }
   }
 ]
